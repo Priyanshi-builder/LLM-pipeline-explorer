@@ -1,0 +1,6 @@
+{
+  "name": "LLM Pipeline Explorer",
+  "description": "Interactive AI learning laboratory visualizing how Large Language Models tokenize text, index vocabularies, construct static and contextual embeddings via PCA, and process representations across the transformer pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
